@@ -26,5 +26,6 @@
     $('document').ready(function() {
         var timeAndDate = new TimeAndDate();
         timeAndDate.log('letsa go!');
+        timeAndDate.CurrentDayAndTime();
     });
 </script>
